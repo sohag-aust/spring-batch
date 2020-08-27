@@ -1,3 +1,5 @@
+-> Batch Processing: Batch processing of data is an efficient way of processing large volumes of data where data is collected, processed and then batch results are produced. Spring Batch uses chunk oriented style of processing which is reading data one at a time, and creating chunks that will be written out within a transaction.
+
 -> Spring Batch is a lightweight batch framework which can be used by enterprise sysetms to develop robust batch applications for the daily operations. 
 
 -> Consider an environment where users have to do a lot of batch processing. This will be quite different from a typical web application which has to work 24/7.
